@@ -1,0 +1,47 @@
+﻿CMD
+remote 客户端： mstsc
+ip : ipconfig
+calc
+
+infinity2067
+94122717chatswood
+
+lewis.l@infinitytesting.com.au
+
+4）Tokyo VPN: ( Recommend ) 
+IP: 54.249.37.24 
+User Name: infinity 
+Password: Fr#3538%sted
+  
+5）HK009 VPN: 
+IP: 202.181.170.181 
+User Name: infinity 
+Password: %vbkh$12
+
+连到infinty的源码：
+AU/CN: <a title="Website Design Sydney" href="http://www.infinitytechnologies.com.au" target="_blank">Website Design</a>: Infinity
+HK: <a title="Website Design Hong Kong" href="http://www.hongkongwebdesign.com.hk/" target="_blank">Website Design</a>: Infinity
+GE: <a title="Website Design Germany" href="http://www.internetagentur-infinity.de" target="_blank">Website Design</a>: Infinity
+CA: <a title="Website Design Canada" href="http://www.infinitytechnologies.ca" target="_blank">Website Design</a>: Infinity
+
+search input javascript setting:
+onfocus="if (this.value=='Search..') this.value='';" onblur="if (this.value=='') this.value='Search..';" 
+
+font with tpekit
+<script type="text/javascript" src="http://use.typekit.com/utm3ope.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+<h3>What is Lorem Ipsum </h3>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+
+Credit Card Number: 4918914107195005
+Expiry Date: 07/2015
+Cardholder's Name: JOHN DOE
+
+
+4918914107195005
+Exp date: 07, 2015,
+CVV2: 123  
+Visa Card
